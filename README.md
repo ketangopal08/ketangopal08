@@ -46,7 +46,11 @@
 
 ###
 
-<h2 align="left">Get in touch ☕</h2>
+<h2 align="left">📈 Let’s Build Together</h2>
+
+###
+
+<p align="left">If you’re interested in exploring my work or collaborating on impactful projects, feel free to connect!</p>
 
 ###
 
