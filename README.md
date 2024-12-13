@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="left">📈 Let’s Build Together</h2>
+<h2 align="left">Let’s Build Together 📈</h2>
 
 ###
 
