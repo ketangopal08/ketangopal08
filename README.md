@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate  software developer and team leader with extensive experience in building innovative, scalable, and user-centric applications. With a strong foundation in both front-end and back-end development, I excel at delivering robust solutions that seamlessly blend functionality and design.<br><br>🌟 Professional Expertise<br><br>Leadership & Collaboration: Experienced in leading teams to deliver high-quality features, managing testing cycles, and streamlining development pipelines.<br><br>💼 Key Accomplishments<br><br>Feature Development: Led multiple projects focused on improving workflow management, dashboard responsiveness, and user settings optimizations.</p>
+<p align="left">A passionate  software developer and team leader with extensive experience in building innovative, scalable, and user-centric applications. With a strong foundation in both front-end and back-end development, I excel at delivering robust solutions that seamlessly blend functionality and design.<br><br>🌟 Professional Expertise<br><br>Leadership & Collaboration: Experienced in leading teams to deliver high-quality features, managing testing cycles, and streamlining development pipelines.</p>
 
 ###
 
